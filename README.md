@@ -6,7 +6,7 @@ Trecho de códigos de exemplo:
 
 * Java:
 
-'''
+```
 package MyPackage;
 
 public class Course {
@@ -20,11 +20,13 @@ public class Course {
           this.CourseId = id;
        }
     }
-'''
+```
+
+Link do código inspirado: &nbsp; [![Click aqui](https://files.catbox.moe/3u974x.png)](https://www.edureka.co/blog/mvc-architecture-in-java/)]
 
 * Python:
 
-'''
+```
 class Dog:
 
     tricks = [] # mistaken use of a class variable
@@ -34,4 +36,6 @@ class Dog:
 
     def add_trick(self, trick):
         self.tricks.append(trick)
-'''
+```
+
+Link do código inspirado: &nbsp; [![Click aqui](https://files.catbox.moe/y5vbzr.png)](https://docs.python.org/3/tutorial/classes.html)]
