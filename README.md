@@ -22,7 +22,7 @@ public class Course {
     }
 ```
 
-Link do código inspirado: &nbsp; Click aqui &nbsp; <a href="https://www.edureka.co/blog/mvc-architecture-in-java/" rel="some text"><img src="https://files.catbox.moe/3u974x.png" width="40"></a>
+Link do código inspirado: &nbsp; Click aqui na img &nbsp; <a href="https://www.edureka.co/blog/mvc-architecture-in-java/" rel="some text"><img src="https://files.catbox.moe/3u974x.png" width="40"></a>
 
 * Python:
 
@@ -38,4 +38,4 @@ class Dog:
         self.tricks.append(trick)
 ```
 
-Link do código inspirado: &nbsp; Click aqui &nbsp; <a href="https://docs.python.org/3/tutorial/classes.html" rel="some text"><img src="https://files.catbox.moe/y5vbzr.png" width="40"></a>
+Link do código inspirado: &nbsp; Click aqui na img &nbsp; <a href="https://docs.python.org/3/tutorial/classes.html" rel="some text"><img src="https://files.catbox.moe/y5vbzr.png" width="40"></a>
